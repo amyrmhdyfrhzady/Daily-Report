@@ -30,7 +30,7 @@ for a more dynamic response.
 
 <h3>⚡ Standard</h3>
 
-<p><strong>File:</strong> <code>USDT&amp;GOLDprice.shortcut</code></p>
+<p><strong>File:</strong> <code>Daily Report</code></p>
 
 <p>
 The Standard version uses a predefined text template.
